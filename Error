@@ -1,0 +1,268 @@
+(venv) C:\Users\ccasas\PycharmProjects\tiny_python_projects\01_hello>python -v test.py
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__pycache__\__init__.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__init__.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\encodings\\__pycache__\\__init__.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\codecs.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\codecs.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\codecs.cpython-38.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF23309D0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__pycache__\aliases.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\aliases.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\encodings\\__pycache__\\aliases.cpython-38.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24BEFA0>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF23307C0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__pycache__\utf_8.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\utf_8.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2330850>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__pycache__\cp1252.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\cp1252.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24D70D0>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\__pycache__\latin_1.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\encodings\latin_1.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24D7460>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\io.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\io.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\io.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\abc.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\abc.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\abc.cpython-38.pyc'
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24D78B0>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24D75E0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\site.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\site.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\site.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\os.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\os.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\os.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\stat.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\stat.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\stat.cpython-38.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24FF250>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\_collections_abc.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\_collections_abc.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\_collections_abc.cpython-38.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24FF2E0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\ntpath.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\ntpath.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\ntpath.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\genericpath.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\genericpath.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\genericpath.cpython-38.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2523E50>
+import 'ntpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24FFBE0>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24E1970>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\_sitebuiltins.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\_sitebuiltins.cpython-38.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24F74F0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\_bootlocale.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\_bootlocale.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\_bootlocale.cpython-38.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2523CA0>
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF24E1280>
+Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\subprocess.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\subprocess.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\subprocess.cpython-38.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\signal.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\signal.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\signal.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\functools.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\functools.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\functools.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\collections\__pycache__\__init__.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\collections\__init__.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\collections\\__pycache__\\__init__.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\operator.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\operator.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\operator.cpython-38.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26B63A0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\keyword.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\keyword.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\keyword.cpython-38.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26B6490>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\heapq.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\heapq.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\heapq.cpython-38.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26B6610>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\reprlib.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\reprlib.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\reprlib.cpython-38.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26B69A0>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2699580>
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2559C10>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\enum.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\enum.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\enum.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\types.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\types.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\types.cpython-38.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26C2610>
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF256A3D0>
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF25596A0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\threading.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\threading.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\threading.cpython-38.pyc'
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\_weakrefset.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\_weakrefset.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\_weakrefset.cpython-38.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26FCB20>
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF25598E0>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\warnings.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\warnings.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\warnings.cpython-38.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF26FC460>
+# C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\__pycache__\contextlib.cpython-38.pyc matches C:\Users\ccasas\AppData\Local\Programs\Python\Python38\lib\contextlib.py
+# code object from 'C:\\Users\\ccasas\\AppData\\Local\\Programs\\Python\\Python38\\lib\\__pycache__\\contextlib.cpython-38.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF2704D00>
+import 'msvcrt' # <class '_frozen_importlib.BuiltinImporter'>
+import '_winapi' # <class '_frozen_importlib.BuiltinImporter'>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x000001EBF25326D0>
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _warnings
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing _thread
+# cleanup[2] removing _weakref
+# cleanup[2] removing winreg
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _locale
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing errno
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# destroy operator
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# destroy collections
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# destroy functools
+# cleanup[2] removing types
+# destroy types
+# cleanup[2] removing enum
+# destroy enum
+# cleanup[2] removing signal
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing threading
+# cleanup[2] removing warnings
+# cleanup[2] removing contextlib
+# cleanup[2] removing msvcrt
+# cleanup[2] removing _winapi
+# cleanup[2] removing subprocess
+# destroy subprocess
+# destroy _sitebuiltins
+# destroy ntpath
+# destroy _stat
+# destroy genericpath
+# destroy stat
+# destroy _locale
+# destroy errno
+# destroy io
+# destroy signal
+# destroy threading
+# destroy warnings
+# destroy contextlib
+# destroy _signal
+# destroy _abc
+# destroy heapq
+# destroy _operator
+# destroy _heapq
+# destroy itertools
+# destroy _collections
+# destroy msvcrt
+# destroy _winapi
+# destroy _functools
+# destroy os
+# destroy time
+# destroy abc
+# destroy _collections_abc
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping winreg
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _thread
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _frozen_importlib_external
+# destroy io
+# destroy nt
+# destroy winreg
+# destroy marshal
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _imp
+# cleanup[3] wiping _frozen_importlib
+# destroy _frozen_importlib_external
+# destroy _imp
+# destroy _thread
+# destroy _warnings
+# destroy _weakref
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _frozen_importlib
+# clear sys.audit hooks
+
